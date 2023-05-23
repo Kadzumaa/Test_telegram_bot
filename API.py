@@ -1,0 +1,1 @@
+api_exchenge_key = "b4c5b2ef0ee8ff5d727990de"Token =  '5992950689:AAElqNf6VjK-JltKRdM6BMYxBUhfpAboz-o'
